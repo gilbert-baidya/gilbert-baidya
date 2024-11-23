@@ -1,4 +1,8 @@
-
+<h1 align="center">
+  <a href="https://username.github.io/name-animation/">
+    <img src="https://github.com/gilbert-baidya/gilbert-baidya/blob/main/text.svg" alt="Gilbert Baidya" />
+  </a>
+</h1>
 # 👋 Hello, I'm Gilbert S. Baidya!
 
 Welcome to my GitHub profile! I'm a **Sr. Test Automation Engineer (Lead)** with over a decade of experience in software testing, QA, and release engineering. My passion lies in creating robust automation frameworks, ensuring quality, and delivering exceptional results.
