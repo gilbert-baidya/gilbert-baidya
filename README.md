@@ -3,10 +3,22 @@
     <img src="https://github.com/gilbert-baidya/gilbert-baidya/blob/main/text.svg" alt="Gilbert Baidya" />
   </a>
 </h1>
-# 👋 Hello, I'm Gilbert S. Baidya!
+<h1 align="center" style="font-size: 2.5em; color: #00FF7F;">
+  👋 Hello, World! I'm <span style="color: #90EE90;">Gilbert S. Baidya</span> 🌟
+</h1>
 
-Welcome to my GitHub profile! I'm a **Sr. Test Automation Engineer (Lead)** with over a decade of experience in software testing, QA, and release engineering. My passion lies in creating robust automation frameworks, ensuring quality, and delivering exceptional results.
+<p align="center" style="font-size: 1.2em; color: #F0FFF0; line-height: 1.6;">
+  Welcome to my corner of the digital universe! 🚀  
+  I'm a <span style="color: #00FF7F; font-weight: bold;">Sr. Test Automation Enthusiast</span> with over a decade of experience in ensuring software excellence.  
+  <br>Fueled by my passion for <span style="color: #90EE90;">automation</span>, I thrive on building frameworks that simplify processes,  
+  enhance quality, and empower teams to innovate with confidence. 💡✨
+</p>
 
+<p align="center" style="font-size: 1.1em; color: #ADFF2F;">
+  🌐 Exploring the ever-evolving tech landscape,  
+  🤖 Turning automation dreams into reality,  
+  🔧 Crafting solutions that make a difference!  
+</p>
 ---
 
 ## 🌟 **About Me**
