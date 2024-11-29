@@ -24,17 +24,19 @@
 ## 🌟 **About Me**
 - 🌍 **Location**: Los Angeles, CA
 - 🎯 **Specialties**: QA Automation, Release Engineering, Performance Testing
-- 🛠️ **Tools & Skills**
+## 🛠️ **Tools & Skills**
+
 <div align="center">
-  <img src="https://img.shields.io/badge/Selenium-%23009639.svg?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium" />
-  <img src="https://img.shields.io/badge/Playwright-%23000000.svg?style=for-the-badge&logo=microsoft&logoColor=green" alt="Playwright" />
-  <img src="https://img.shields.io/badge/Appium-%234168F0.svg?style=for-the-badge&logo=appium&logoColor=white" alt="Appium" />
-  <img src="https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
-  <img src="https://img.shields.io/badge/AWS-%23232F3E.svg?style=for-the-badge&logo=amazon-aws&logoColor=orange" alt="AWS" />
-  <img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Katalon%20Studio-%2300C4CC.svg?style=for-the-badge&logo=katalon&logoColor=white" alt="Katalon" />
-  <img src="https://img.shields.io/badge/Cucumber-%23023C01.svg?style=for-the-badge&logo=cucumber&logoColor=white" alt="Cucumber" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="40" width="52" alt="selenium logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/playwright/playwright-original.svg" height="40" width="52" alt="playwright logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/appium/appium-original.svg" height="40" width="52" alt="appium logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="40" width="52" alt="postman logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" width="52" alt="aws logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" width="52" alt="docker logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/katalon/katalon-original.svg" height="40" width="52" alt="katalon studio logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cucumber/cucumber-plain.svg" height="40" width="52" alt="cucumber logo" />
 </div>
+
 
 - 🤝 **Professional Philosophy**: Quality isn't an act; it's a habit.
 
