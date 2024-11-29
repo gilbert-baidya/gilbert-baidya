@@ -81,12 +81,12 @@
 
 ## 🏆 **GitHub Trophies**
 
-https://github-profile-trophy.vercel.app/?username=ryo-ma&column=-1
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
 ## 📊 **GitHub Stats**
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 ---
 
