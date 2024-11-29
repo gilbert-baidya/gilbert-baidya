@@ -81,7 +81,7 @@
 
 ## 🏆 **GitHub Trophies**
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=gilbert-baidya&theme=nord&column=7)](https://github.com/gilbert-baidya/github-profile-trophy)
+https://github-profile-trophy.vercel.app/?username=gilbert-baidya&theme=discord
 
 ---
 
