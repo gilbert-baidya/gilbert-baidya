@@ -81,7 +81,7 @@
 
 ## 🏆 **GitHub Trophies**
 
-https://github-profile-trophy.vercel.app/?username=gilbert-baidya&theme=discord
+https://github-profile-trophy.vercel.app/?username=ryo-ma&column=-1
 
 ---
 
