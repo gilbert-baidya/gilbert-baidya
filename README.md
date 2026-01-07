@@ -11,7 +11,16 @@
 <a href="https://gilbertbaidya.netlify.app/" target="_blank">
   <img src="https://img.shields.io/badge/🌐_Visit_Mission_Portal-00FF7F?style=for-the-badge&logoColor=white" alt="Visit Website" />
 </a>
-<br><br>
+
+<!-- CUSTOM ACHIEVEMENT BADGES -->
+<p>
+<img src="https://img.shields.io/badge/Experience-10+_Years-00FF7F?style=for-the-badge&logo=target&logoColor=white" alt="10+ Years" />
+<img src="https://img.shields.io/badge/Teams_Mentored-15+-00D9FF?style=for-the-badge&logo=users&logoColor=white" alt="15+ Teams" />
+<img src="https://img.shields.io/badge/Release_Stability-99.9%25-7000FF?style=for-the-badge&logo=checkmarx&logoColor=white" alt="99.9% Stability" />
+<img src="https://img.shields.io/badge/GitHub_Contributions-700+-00FF7F?style=for-the-badge&logo=github&logoColor=white" alt="700+ Contributions" />
+<img src="https://img.shields.io/badge/Location-Los_Angeles-00D9FF?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Los Angeles" />
+</p>
+<br>
 
 <!-- ASTRONAUT DEPLOYMENT -->
 <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="400">
@@ -30,8 +39,13 @@
 
 ```ascii
 ╔══════════════════════════════════════════════════════════════════════╗
-║               COMMANDER GILBERT S. BAIDYA • PROFILE LOADED          ║
-║               STATUS: OPERATIONAL ✓ • LOCATION: LOS ANGELES, CA     ║
+║     ██████╗ ███████╗██████╗                                         ║
+║    ██╔════╝ ██╔════╝██╔══██╗    GILBERT S. BAIDYA                  ║
+║    ██║  ███╗███████╗██████╔╝    Sr. Test Automation Engineer       ║
+║    ██║   ██║╚════██║██╔══██╗    Quality Architect • Mission Lead   ║
+║    ╚██████╔╝███████║██████╔╝                                        ║
+║     ╚═════╝ ╚══════╝╚═════╝     STATUS: OPERATIONAL ✓              ║
+║                                  LOCATION: LOS ANGELES, CA          ║
 ╚══════════════════════════════════════════════════════════════════════╝
 ```
 
@@ -179,13 +193,80 @@ innovation_protocols = {
 
 ---
 
+## 🏆 FEATURED MISSION PROJECTS
+
+<div align="center">
+
+### 🌟 HIGHLIGHTED DEPLOYMENTS
+
+<table>
+<tr>
+<td width="50%">
+
+<a href="https://github.com/gilbert-baidya" target="_blank">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=gilbert-baidya&repo=your-automation-framework&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF7F&icon_color=00D9FF&text_color=C9D1D9" />
+</a>
+
+**🚀 Enterprise Test Framework**
+- Selenium + Playwright + Cucumber
+- Multi-browser & cross-platform
+- CI/CD integration ready
+
+</td>
+<td width="50%">
+
+<a href="https://github.com/gilbert-baidya" target="_blank">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=gilbert-baidya&repo=api-testing-suite&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF7F&icon_color=00D9FF&text_color=C9D1D9" />
+</a>
+
+**🔬 API Testing Suite**
+- REST & GraphQL testing
+- Performance benchmarking
+- Cloud-native deployment
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+<a href="https://github.com/gilbert-baidya" target="_blank">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=gilbert-baidya&repo=mobile-automation&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF7F&icon_color=00D9FF&text_color=C9D1D9" />
+</a>
+
+**📱 Mobile Test Automation**
+- Appium iOS & Android
+- Parallel execution
+- Device farm integration
+
+</td>
+<td width="50%">
+
+<a href="https://github.com/gilbert-baidya" target="_blank">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=gilbert-baidya&repo=ci-cd-pipeline&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF7F&icon_color=00D9FF&text_color=C9D1D9" />
+</a>
+
+**⚙️ CI/CD Pipeline Templates**
+- Jenkins & Docker configs
+- AWS/Azure deployment
+- Quality gate automation
+
+</td>
+</tr>
+</table>
+
+> 💡 **Note:** Replace `your-automation-framework`, `api-testing-suite`, `mobile-automation`, and `ci-cd-pipeline` with your actual repository names to display live stats
+
+</div>
+
+---
+
 ## 🧑‍🚀 EXPERIENCE MODULES • MISSION HISTORY
 
 <details>
 <summary><b>🎖️ SENIOR TEST AUTOMATION ENGINEER</b> • Elite Squadron</summary>
 
 ```diff
-🎖️ 10+ Years | Los Angeles, CA
+🎖️ 13+ Years | Los Angeles, CA
 💼 Specialties: SDET • QA Automation • CI/CD • Cloud Testing • Performance Engineering
 
 + Architected enterprise test automation frameworks from scratch (Selenium, Playwright, Appium)
@@ -239,6 +320,31 @@ innovation_protocols = {
 ## 📊 TELEMETRY & SYSTEM DIAGNOSTICS
 
 <div align="center">
+
+### 🎯 SKILL MASTERY LEVELS
+
+<table>
+<tr>
+<td width="50%" align="left">
+
+**Test Automation** `██████████` 100%  
+**CI/CD Engineering** `█████████░` 95%  
+**Cloud Platforms** `█████████░` 90%  
+**Framework Design** `██████████` 100%  
+**Performance Testing** `████████░░` 85%  
+
+</td>
+<td width="50%" align="left">
+
+**Team Leadership** `█████████░` 95%  
+**DevOps Practices** `████████░░` 90%  
+**API Testing** `█████████░` 95%  
+**Mobile Automation** `████████░░` 85%  
+**Quality Strategy** `██████████` 100%  
+
+</td>
+</tr>
+</table>
 
 ### 🌠 SPACECRAFT PERFORMANCE METRICS
 
