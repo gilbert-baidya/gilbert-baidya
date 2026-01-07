@@ -10,6 +10,9 @@
 <!-- ASTRONAUT DEPLOYMENT -->
 <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="400">
 
+<!-- SPACE DIVIDER ANIMATION -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
 <!-- TYPING TRANSMISSION -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=1000&color=00FF7F&center=true&vCenter=true&width=940&lines=🚀+NAVIGATING+THE+AUTOMATION+COSMOS;🛰️+BUILDING+QUALITY+FRAMEWORKS+FOR+10%2B+YEARS;🌌+ENGINEERING+STELLAR+TEST+SYSTEMS;🧑‍🚀+EMPOWERING+TEAMS+WITH+CONFIDENCE;⚡+LOS+ANGELES+MISSION+CONTROL" alt="Typing SVG" />
 
@@ -26,14 +29,14 @@
 ╚══════════════════════════════════════════════════════════════════════╝
 ```
 
-**Mission Commander** | **Sr. Test Automation Enthusiast** | **Quality Architect**
+**Senior Test Automation Engineer** | **SDET** | **Quality Architect** | **CI/CD Specialist**
 
 ```diff
-+ 🛸 Over a decade navigating complex automation landscapes for software excellence
-+ 🔭 Architecting scalable test frameworks that simplify processes and enhance quality
-+ 🌠 Leading quality engineering teams through uncharted territories
-+ 🪐 Empowering teams to innovate with confidence through automation dreams
-+ ⚡ Specializing in QA Automation, Release Engineering, Performance Testing
++ 🛸 10+ years architecting enterprise test automation frameworks & CI/CD pipelines
++ 🔭 Led quality initiatives across cloud-native platforms (AWS, Azure)
++ 🌠 Owned end-to-end testing strategy for mission-critical systems
++ 🪐 Scaled automation coverage reducing release cycles by driving team excellence
++ ⚡ Expert: Selenium • Playwright • Appium • Jenkins • Docker • K8s
 ```
 
 > *"Quality isn't an act; it's a habit - and in space, there's no room for error."*
@@ -43,16 +46,16 @@
 ### 🎯 CURRENT MISSION OBJECTIVES
 
 ```yaml
-Primary Systems:
-  - 🔬 Advanced Test Automation Architecture
-  - 🚀 QA Automation & Release Engineering
+Core Expertise:
+  - 🔬 Test Automation Architecture (Selenium, Playwright, Appium, Katalon)
+  - 🚀 CI/CD Pipeline Engineering (Jenkins, Docker, AWS, Azure)
   - 🛡️ Performance Testing & Quality Leadership
-  - 🧬 Framework Development That Makes a Difference
+  - 🧬 Framework Development & DevOps Integration
   
-Secondary Protocols:
-  - 📡 Team Empowerment & Confidence Building
-  - 🌐 Process Simplification Through Automation
-  - 🔮 Turning Automation Dreams Into Reality
+Leadership Focus:
+  - 📡 Cross-Functional Team Leadership & Mentorship
+  - 🌐 Process Optimization & Agile Best Practices
+  - 🔮 Cloud-Native Testing Strategy (AWS, Azure, Kubernetes)
 ```
 
 </div>
@@ -176,18 +179,17 @@ innovation_protocols = {
 <summary><b>🎖️ SENIOR TEST AUTOMATION ENGINEER</b> • Elite Squadron</summary>
 
 ```diff
-Mission Duration: 10+ Years in the Automation Cosmos
-Command Center: Los Angeles, CA
-Specialties: QA Automation • Release Engineering • Performance Testing
+🎖️ 10+ Years | Los Angeles, CA
+💼 Specialties: SDET • QA Automation • CI/CD • Cloud Testing • Performance Engineering
 
-+ Architected enterprise-level automation frameworks that simplify processes
-+ Led quality initiatives enhancing software excellence across product lines
-+ Built scalable test frameworks using Selenium, Playwright, Appium, Katalon
-+ Empowered teams to innovate with confidence through robust automation
-+ Integrated CI/CD pipelines with Jenkins, Docker, AWS, Azure
-+ Reduced manual testing efforts and accelerated release cycles
-+ Mentored engineers in best practices, automation patterns, and modern tools
-+ Specialized in performance testing and quality engineering leadership
++ Architected enterprise test automation frameworks from scratch (Selenium, Playwright, Appium)
++ Owned quality strategy for cloud-native applications on AWS & Azure
++ Led cross-functional QA teams delivering critical releases with 99.9% stability
++ Designed & implemented CI/CD pipelines (Jenkins, Docker, Kubernetes)
++ Reduced testing cycle time through strategic automation & tooling innovation
++ Mentored 15+ engineers in test architecture, automation best practices & DevOps
++ Built API testing frameworks (REST, GraphQL) with comprehensive coverage
++ Drove performance testing initiatives identifying bottlenecks pre-production
 ```
 
 </details>
@@ -196,15 +198,15 @@ Specialties: QA Automation • Release Engineering • Performance Testing
 <summary><b>🔧 AUTOMATION FRAMEWORK ARCHITECT</b> • Advanced Operations</summary>
 
 ```diff
-Core Competencies: Framework Development & Innovation
+🔧 Core Competencies: Framework Development • DevOps • Cloud Integration
 
-+ Developed comprehensive test automation suites covering UI, API, Mobile
-+ Implemented BDD/Cucumber and data-driven testing approaches
-+ Created monitoring solutions with DataDog and Grafana
-+ Designed database testing strategies (MySQL, MongoDB, DynamoDB)
-+ Collaborated with cross-functional teams in agile environments
-+ Built API testing frameworks with Postman and REST automation
-+ Established quality processes and testing best practices
++ Developed full-stack test automation suites (UI, API, Mobile, Database)
++ Implemented BDD/Cucumber with data-driven & keyword-driven frameworks
++ Integrated observability tools (DataDog, Grafana) for real-time quality metrics
++ Designed database validation strategies (MySQL, MongoDB, DynamoDB)
++ Championed shift-left testing in agile/scrum teams
++ Built scalable API testing solutions (Postman, REST Assured, GraphQL)
++ Established quality gates & SLAs for CI/CD pipelines
 ```
 
 </details>
@@ -213,15 +215,15 @@ Core Competencies: Framework Development & Innovation
 <summary><b>⚡ QUALITY ENGINEERING LEADER</b> • Mission Command</summary>
 
 ```diff
-Focus Areas: Team Leadership • Process Excellence • Continuous Improvement
+⚡ Focus Areas: Team Leadership • Process Excellence • Quality Strategy
 
-+ Led quality engineering initiatives across multiple platforms
-+ Established automated testing standards and guidelines
-+ Mentored team members in automation tools and methodologies
-+ Drove continuous improvement in quality processes
-+ Bridged the gap between development and quality assurance
-+ Implemented cloud-based testing strategies (AWS, Azure)
-+ Created comprehensive test documentation and reporting systems
++ Led quality engineering transformation across web, mobile & cloud platforms
++ Established automated testing standards reducing defect escape rate
++ Mentored engineers in test automation, CI/CD practices & cloud technologies
++ Drove continuous improvement increasing deployment frequency & confidence
++ Championed collaboration between Dev, QA, DevOps & Product teams
++ Implemented cloud-based testing infrastructure (AWS EC2, Lambda, Azure DevOps)
++ Created executive-level quality dashboards & KPI reporting systems
 ```
 
 </details>
@@ -390,6 +392,10 @@ Next_Launch:
 ```
 
 **⚡ Built with 💙 and ☕ in the automation cosmos**
+
+---
+
+<sub>**Keywords for Recruiters:** Senior Test Automation Engineer | SDET | QA Automation | CI/CD | DevOps | Selenium | Playwright | Appium | Jenkins | Docker | Kubernetes | AWS | Azure | Test Architecture | Performance Testing | API Testing | Mobile Testing | Agile | Scrum | Quality Engineering | Release Engineering | Framework Development | Python | Java | TypeScript | JavaScript</sub>
 
 </div>
 
