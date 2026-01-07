@@ -7,6 +7,12 @@
 <!-- ORBITAL ENTRY SEQUENCE -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF7F,50:00D9FF,100:7000FF&height=300&section=header&text=GILBERT%20S.%20BAIDYA&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Sr.%20Test%20Automation%20Engineer%20•%20Quality%20Architect%20•%20Mission%20Commander&descAlignY=55&descSize=20" />
 
+<!-- WEBSITE LINK -->
+<a href="https://gilbertbaidya.netlify.app/" target="_blank">
+  <img src="https://img.shields.io/badge/🌐_Visit_Mission_Portal-00FF7F?style=for-the-badge&logoColor=white" alt="Visit Website" />
+</a>
+<br><br>
+
 <!-- ASTRONAUT DEPLOYMENT -->
 <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="400">
 
@@ -275,6 +281,10 @@ innovation_protocols = {
 
 <a href="mailto:gilbert.baidya@gmail.com">
 <img src="https://img.shields.io/badge/Email-Transmit%20Message-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://gilbertbaidya.netlify.app/" target="_blank">
+<img src="https://img.shields.io/badge/Portfolio-Mission%20Portal-00FF7F?style=for-the-badge&logo=google-chrome&logoColor=white" />
 </a>
 
 ### 📡 SIGNAL STRENGTH: ACTIVE
