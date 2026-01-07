@@ -7,13 +7,6 @@
 <!-- ORBITAL ENTRY SEQUENCE -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF7F,50:00D9FF,100:7000FF&height=300&section=header&text=GILBERT%20S.%20BAIDYA&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Sr.%20Test%20Automation%20Engineer%20•%20Quality%20Architect%20•%20Mission%20Commander&descAlignY=55&descSize=20" />
 
-<!-- NAME ANIMATION -->
-<h1 align="center">
-  <a href="https://username.github.io/name-animation/">
-    <img src="https://github.com/gilbert-baidya/gilbert-baidya/blob/main/text.svg" alt="Gilbert Baidya" />
-  </a>
-</h1>
-
 <!-- ASTRONAUT DEPLOYMENT -->
 <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="400">
 
