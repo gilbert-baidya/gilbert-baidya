@@ -14,7 +14,7 @@
 
 <!-- CUSTOM ACHIEVEMENT BADGES -->
 <p>
-<img src="https://img.shields.io/badge/Experience-10+_Years-00FF7F?style=for-the-badge&logo=target&logoColor=white" alt="13+ Years" />
+<img src="https://img.shields.io/badge/Experience-10+_Years-00FF7F?style=for-the-badge&logo=target&logoColor=white" alt="10+ Years" />
 <img src="https://img.shields.io/badge/Teams_Mentored-15+-00D9FF?style=for-the-badge&logo=users&logoColor=white" alt="15+ Teams" />
 <img src="https://img.shields.io/badge/Release_Stability-99.9%25-7000FF?style=for-the-badge&logo=checkmarx&logoColor=white" alt="99.9% Stability" />
 <img src="https://img.shields.io/badge/GitHub_Contributions-700+-00FF7F?style=for-the-badge&logo=github&logoColor=white" alt="700+ Contributions" />
@@ -52,7 +52,7 @@
 **Senior Test Automation Engineer** | **SDET** | **Quality Architect** | **CI/CD Specialist**
 
 ```diff
-+ 🛸 13+ years architecting enterprise test automation frameworks & CI/CD pipelines
++ 🛸 10+ years architecting enterprise test automation frameworks & CI/CD pipelines
 + 🔭 Led quality initiatives across cloud-native platforms (AWS, Azure)
 + 🌠 Owned end-to-end testing strategy for mission-critical systems
 + 🪐 Scaled automation coverage reducing release cycles by driving team excellence
@@ -61,9 +61,9 @@
 
 > *"Quality isn't an act; it's a habit - and in space, there's no room for error."*
 
-<div align="center">
-
 ### 🎯 CURRENT MISSION OBJECTIVES
+
+<div align="center">
 
 ```yaml
 Core Expertise:
@@ -197,64 +197,92 @@ innovation_protocols = {
 
 <div align="center">
 
-### 🌟 HIGHLIGHTED DEPLOYMENTS
+### 🌟 CORE COMPETENCIES SHOWCASE
 
 <table>
 <tr>
-<td width="50%">
+<td width="25%" align="center">
 
-<a href="https://github.com/gilbert-baidya" target="_blank">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=gilbert-baidya&repo=your-automation-framework&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF7F&icon_color=00D9FF&text_color=C9D1D9" />
-</a>
+### 🚀
+**Enterprise Test**  
+**Automation**
 
-**🚀 Enterprise Test Framework**
-- Selenium + Playwright + Cucumber
-- Multi-browser & cross-platform
-- CI/CD integration ready
-
-</td>
-<td width="50%">
-
-<a href="https://github.com/gilbert-baidya" target="_blank">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=gilbert-baidya&repo=api-testing-suite&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF7F&icon_color=00D9FF&text_color=C9D1D9" />
-</a>
-
-**🔬 API Testing Suite**
-- REST & GraphQL testing
-- Performance benchmarking
-- Cloud-native deployment
+```yaml
+Stack:
+  - Selenium
+  - Playwright
+  - Appium
+  - Katalon
+  
+Focus:
+  - Framework Design
+  - Multi-Platform
+  - CI/CD Ready
+```
 
 </td>
-</tr>
-<tr>
-<td width="50%">
+<td width="25%" align="center">
 
-<a href="https://github.com/gilbert-baidya" target="_blank">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=gilbert-baidya&repo=mobile-automation&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF7F&icon_color=00D9FF&text_color=C9D1D9" />
-</a>
+### 🔬
+**API & Performance**  
+**Testing**
 
-**📱 Mobile Test Automation**
-- Appium iOS & Android
-- Parallel execution
-- Device farm integration
+```yaml
+Tools:
+  - Postman
+  - REST Assured
+  - GraphQL
+  - JMeter
+  
+Scope:
+  - Load Testing
+  - API Validation
+  - Benchmarking
+```
 
 </td>
-<td width="50%">
+<td width="25%" align="center">
 
-<a href="https://github.com/gilbert-baidya" target="_blank">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=gilbert-baidya&repo=ci-cd-pipeline&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF7F&icon_color=00D9FF&text_color=C9D1D9" />
-</a>
+### 📱
+**Mobile Test**  
+**Automation**
 
-**⚙️ CI/CD Pipeline Templates**
-- Jenkins & Docker configs
-- AWS/Azure deployment
-- Quality gate automation
+```yaml
+Platforms:
+  - iOS (Appium)
+  - Android
+  - Cross-Platform
+  - Device Farm
+  
+Coverage:
+  - Native Apps
+  - Hybrid Apps
+  - Real Devices
+```
+
+</td>
+<td width="25%" align="center">
+
+### ⚙️
+**CI/CD Pipeline**  
+**Engineering**
+
+```yaml
+Tech:
+  - Jenkins
+  - Docker
+  - Kubernetes
+  - AWS/Azure
+  
+Delivery:
+  - Automated Gates
+  - Cloud Deploy
+  - Quality Metrics
+```
 
 </td>
 </tr>
 </table>
-
-> 💡 **Note:** Replace `your-automation-framework`, `api-testing-suite`, `mobile-automation`, and `ci-cd-pipeline` with your actual repository names to display live stats
 
 </div>
 
@@ -348,20 +376,30 @@ innovation_protocols = {
 
 ### 🌠 SPACECRAFT PERFORMANCE METRICS
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=gilbert-baidya&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF7F&icon_color=00D9FF&text_color=C9D1D9" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=gilbert-baidya&theme=tokyonight&hide_border=true&background=0D1117&ring=00FF7F&fire=00D9FF&currStreakLabel=00FF7F" />
+<a href="https://github.com/gilbert-baidya">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=gilbert-baidya&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF7F&icon_color=00D9FF&text_color=C9D1D9&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+</a>
+<a href="https://github.com/gilbert-baidya">
+  <img width="49%" src="https://streak-stats.demolab.com?user=gilbert-baidya&theme=tokyonight&hide_border=true&background=0D1117&ring=00FF7F&fire=00D9FF&currStreakLabel=00FF7F" alt="GitHub Streak" />
+</a>
 
 ### 🏆 ACHIEVEMENT VAULT
 
-<img src="https://github-profile-trophy.vercel.app/?username=gilbert-baidya&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" />
+<a href="https://github.com/gilbert-baidya">
+  <img src="https://github-profile-trophy.vercel.app/?username=gilbert-baidya&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+</a>
 
 ### 📈 CONTRIBUTION TRAJECTORY
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=gilbert-baidya&custom_title=Mission%20Activity%20Log&bg_color=0D1117&color=00FF7F&line=00D9FF&point=7000FF&area_color=00D9FF&area=true&hide_border=true" />
+<a href="https://github.com/gilbert-baidya">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gilbert-baidya&custom_title=Mission%20Activity%20Log&bg_color=0D1117&color=00FF7F&line=00D9FF&point=7000FF&area_color=00D9FF&area=true&hide_border=true" alt="Contribution Graph" />
+</a>
 
 ### 💻 LANGUAGE DISTRIBUTION ANALYSIS
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gilbert-baidya&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF7F&text_color=C9D1D9" />
+<a href="https://github.com/gilbert-baidya">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gilbert-baidya&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF7F&text_color=C9D1D9&langs_count=8" alt="Top Languages" />
+</a>
 
 </div>
 
