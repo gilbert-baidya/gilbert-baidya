@@ -14,7 +14,7 @@
 
 <!-- CUSTOM ACHIEVEMENT BADGES -->
 <p>
-<img src="https://img.shields.io/badge/Experience-10+_Years-00FF7F?style=for-the-badge&logo=target&logoColor=white" alt="13+ Years" />
+<img src="https://img.shields.io/badge/Experience-10+_Years-00FF7F?style=for-the-badge&logo=target&logoColor=white" alt="10+ Years" />
 <img src="https://img.shields.io/badge/Teams_Mentored-15+-00D9FF?style=for-the-badge&logo=users&logoColor=white" alt="15+ Teams" />
 <img src="https://img.shields.io/badge/Release_Stability-99.9%25-7000FF?style=for-the-badge&logo=checkmarx&logoColor=white" alt="99.9% Stability" />
 <img src="https://img.shields.io/badge/GitHub_Contributions-700+-00FF7F?style=for-the-badge&logo=github&logoColor=white" alt="700+ Contributions" />
@@ -52,7 +52,7 @@
 **Senior Test Automation Engineer** | **SDET** | **Quality Architect** | **CI/CD Specialist**
 
 ```diff
-+ 🛸 13+ years architecting enterprise test automation frameworks & CI/CD pipelines
++ 🛸 10+ years architecting enterprise test automation frameworks & CI/CD pipelines
 + 🔭 Led quality initiatives across cloud-native platforms (AWS, Azure)
 + 🌠 Owned end-to-end testing strategy for mission-critical systems
 + 🪐 Scaled automation coverage reducing release cycles by driving team excellence
